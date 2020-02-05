@@ -2,7 +2,7 @@
 Faites un programme qui affiche fait tourner le jeu de la vie de Conway en boucle.
 
 ```shell
-./ex4 30 30 50
+$ ./ex4 30 30 50
  0  0 000   00 0 0    00 0 0 0
   00 0 0    0 0    0 0    0  0
 0 00  0  0   0  0 0     000  0

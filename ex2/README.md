@@ -6,7 +6,7 @@ Faire un programme qui génère une grille de cases remplie ou non qui prend en 
 
 exemple:
 ```shell
-./ex2 5 10 50
+$ ./ex2 5 10 50
  000 0 0  
  0 0  000 
 0 000    0

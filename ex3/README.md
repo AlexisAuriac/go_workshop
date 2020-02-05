@@ -9,7 +9,7 @@ Règles du jeu de la vie Conway:
 
 exemple:
 ```shell
-./ex3 5 10 40
+$ ./ex3 5 10 40
 0    000 0
    00 0  0
   00     0
